@@ -1,7 +1,7 @@
-# Room Reservation System
+# Room Reservation System 🏢
 A simple Python application to book and manage room reservations.
 
-## Features
+## Features ✨
 Add new room bookings
 
 View all reservations in a table
@@ -10,7 +10,7 @@ Delete existing bookings
 
 Works with Microsoft Access database
 
-## Requirements
+## Requirements 🛠️
 Python 3.x
 
 #### Install required package:
@@ -37,7 +37,7 @@ Click "Delete"
 
 Click "Refresh" to update the reservation list
 
-# Notes
+# Notes 📝
 
 Make sure the database file path is correct in the code
 
